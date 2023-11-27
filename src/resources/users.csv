@@ -1,0 +1,4 @@
+id,firstName,lastName,street,city,state,zip,country,phone,email,username
+1,John,Doe,123 Main Street,City,State,ZIP,Country,555-123-4567,johndoe@example.com,johndoe123
+2,Jane,Smith,456 Elm Street,Town,Province,12345,Another Country,555-987-6543,janesmith@example.com,janesmith123
+3,Bob,Johnson,789 Oak Avenue,Village,Region,54321,Yet Another Country,555-456-7890,bobjohnson@example.com,bobjohnson123git
